@@ -1,0 +1,4 @@
+*cache
+*sqlite3
+.idea
+*.py[cod]
